@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(E:/programing/Personal Ai Assistant/.venv/Scripts/python.exe *)",
+      "Bash(py -0)",
+      "Bash(where python *)",
+      "Bash(py -3.13 -m pip install -r \"E:/programing/Personal Ai Assistant/facerecognition/requirements.txt\")",
+      "Bash(py *)"
+    ]
+  }
+}
